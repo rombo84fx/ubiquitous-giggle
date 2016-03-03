@@ -24,3 +24,16 @@ D:\Gerardo\Downloads\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework_Mark
 D:\Gerardo\Downloads\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.g.resources
 D:\Gerardo\Downloads\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.Properties.Resources.resources
 D:\Gerardo\Downloads\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.csproj.GenerateResource.Cache
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\bin\Debug\Mod12_Homework.exe.config
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.exe
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.pdb
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\bin\Debug\Mod12_Homework.exe
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\bin\Debug\Mod12_Homework.pdb
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.csprojResolveAssemblyReference.cache
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\MainWindow.baml
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\MainWindow.g.cs
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\App.g.cs
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework_MarkupCompile.cache
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.g.resources
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.Properties.Resources.resources
+D:\Gerardo\Source\Repos\Mod12_Homework\Mod12_Homework\obj\Debug\Mod12_Homework.csproj.GenerateResource.Cache
